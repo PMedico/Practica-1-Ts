@@ -1,5 +1,5 @@
 /*
-•Implemente un algoritmo que calcule y muestre
+• Implemente un algoritmo que calcule y muestre
 por pantalla el precio final de un producto
 después de aplicarle un descuento
 • El precio inicial del producto Se ingresa por pantalla

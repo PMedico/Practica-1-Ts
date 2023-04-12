@@ -1,4 +1,6 @@
-/*Calcular las calificaciones de un grupo de alumnos, donde la nota
+/*
+  Ejercicio Calificaciones
+Calcular las calificaciones de un grupo de alumnos, donde la nota
 final de cada alumno se calcula según el siguiente criterio:
 • la parte práctica vale el 10%
 • la parte de problemas vale el 50%

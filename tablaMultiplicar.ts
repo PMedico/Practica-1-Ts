@@ -4,12 +4,8 @@ multiplicación del número ingresado por el usuario
 multiplicación, el usuario también deberá ingresar dicho valor
 33
 Ingrese el número:  9
-Ingrese hasta qué número: 4
-9 x 1 = 9
-9 x 2 = 18
-9 x 3 = 27
-9 x 4 = 36
-*/
+Ingrese hasta qué número: 4*/
+
 import * as rls from 'readline-sync';
 let n1: number = parseFloat(rls.question('Ingrese un numero a multiplicar : '));
 let n2: number = parseFloat(rls.question(`Ingrese hasta que numero quiere multiplicar ${n1}: `));
