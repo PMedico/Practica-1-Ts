@@ -9,7 +9,7 @@ puede obtener el 10% de un valor multiplicado por 0,1
 */
 import * as readlineSync from "readline-sync";
 let precioProducto : number = 450.5;
-let porcentajeDescuento : number = 0.2;
+let porcentajeDescuento : number = 0.1;
 let descuento : number = precioProducto*porcentajeDescuento;
 let precioFinal : number = precioProducto-descuento;
 console.log(precioFinal);

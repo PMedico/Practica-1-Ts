@@ -7,7 +7,7 @@ Promedio-Máximo-Mínimo
 • Pensar cuidadosamente cómo debemos inicializar las variables
 */
 
-import * as rls from "readline-Sync";
+import * as rls from "readline-sync";
 
 let num:number = rls.questionInt("Ingrese numero:");
 let i = 0;
